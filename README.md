@@ -3,7 +3,7 @@ A repository for my Google Data Anlaytics Certificate Capstone Project.
 
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
 
-The purpose of this document is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: â€œIn what ways do members and casual riders use Divvy bikes differently?â€
+The purpose of this document is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: â€œIn what ways do members and casual riders use Divvy bikes differently.
 
 ### Introduction
 This exploratory analysis case study is towards Capstome project requirement for [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics). The case study involves a bikeshare company's data of its customer's trip details over a 12 month period (November 2020 - October 2021). The data has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
@@ -18,7 +18,7 @@ The analysis will follow the 6 phases of the Data Analysis process: Ask, Prepare
 
 #### Prepare
 
-- Verify dataâ€™s integrity
+- Verify data integrity
 - Check data credibility and reliability
 - Check data types
 - Merge datasets
