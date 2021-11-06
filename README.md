@@ -1,7 +1,7 @@
 # Google-Data-Analytics-CapStone-Project
 A repository for my Google Data Anlaytics Certificate Capstone Project.
 
-| ![Flowers](/flowers.jpeg) | ## Case Study: How Does a Bike-Share Navigate Speedy Success? |
+![Flowers](/flowers.jpeg) ## Case Study: How Does a Bike-Share Navigate Speedy Success? |
 
 The purpose of this document is to consolidate downloaded Divvy data into a single dataframe and then conduct simple analysis to help answer the key question: â€œIn what ways do members and casual riders use Divvy bikes differently.
 
